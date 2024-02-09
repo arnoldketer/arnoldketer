@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnold keter😄
 - 👀 I’m interested in data science and machine learning 
-- 🌱 I’m currently learning python, sql and powerBi🧑‍💻
+- 🌱 I’m currently learning python, sql and React🧑‍💻
 - 📫 Reach me on LinkedIn at https://www.linkedin.com/in/arnold-keter-54a82824b/
 
 <!---
